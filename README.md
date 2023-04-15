@@ -1,6 +1,3 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=9ony&fontSize=90" />	
-</div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
